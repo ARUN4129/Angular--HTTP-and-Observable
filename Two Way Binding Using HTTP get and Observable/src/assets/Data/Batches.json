@@ -1,0 +1,6 @@
+[
+    {"Name":"Web-Devlopment", "Fees":9000, "Duration":4},
+    {"Name":"Angular", "Fees":7000, "Duration":2},
+    {"Name":"React Native", "Fees":8500, "Duration":2},
+    {"Name":"Projects", "Fees":4500, "Duration":2}
+]
